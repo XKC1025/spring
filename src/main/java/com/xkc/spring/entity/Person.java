@@ -1,4 +1,4 @@
-package com.xkc.spring.component;
+package com.xkc.spring.entity;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;
